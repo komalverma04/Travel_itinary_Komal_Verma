@@ -23,9 +23,7 @@ Saathi is a simple yet powerful web application that allows users to generate pe
 - Fast and lightweight web experience with Vite and React.
 
 ---
- <div style="flex: 1 0 30%; margin: 5px;">
-    <img src="./Images/Image1.png" alt="KrishiSahyog Logo" style="width: 100%;">
-  </div>
+
 
 ## **Technologies Used**
 - **React**: For building the user interface.
@@ -56,4 +54,12 @@ The architecture of the application is structured as follows:
    - It serves as the database for storing the generated itineraries and offers an option to manage them.
 
 ---
-
+ <div style="flex: 1 0 30%; margin: 5px;">
+    <img src="./Images/Image1.png" alt="TravelItinary Logo" style="width: 100%;">
+  </div>
+   <div style="flex: 1 0 30%; margin: 5px;">
+    <img src="./Images/Image2.png" alt="TravelItinary Logo" style="width: 100%;">
+  </div>
+   <div style="flex: 1 0 30%; margin: 5px;">
+    <img src="./Images/Image3.png" alt="TravelItinary Logo" style="width: 100%;">
+  </div>
